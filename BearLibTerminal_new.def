@@ -1,0 +1,2 @@
+; C:\mingw64\mingw64\bin\dlltool.exe -z BearLibTerminal_new.def --export-all-symbols BearLibTerminal.dll
+EXPORTS
